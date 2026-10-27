@@ -1,0 +1,50 @@
+[
+  {
+    "text": "Jaka jest stolica Polski?",
+    "options": ["Kraków", "Warszawa", "Gdańsk", "Wrocław"],
+    "correct_index": 1,
+    "category": "Geografia"
+  },
+  {
+    "text": "Ile wynosi 2 do potęgi 10?",
+    "options": ["512", "1024", "2048", "256"],
+    "correct_index": 1,
+    "category": "Matematyka"
+  },
+  {
+    "text": "Który pierwiastek chemiczny ma symbol 'O'?",
+    "options": ["Złoto", "Tlen", "Osmium", "Ołów"],
+    "correct_index": 1,
+    "category": "Chemia"
+  },
+  {
+    "text": "W którym roku Polska odzyskała niepodległość?",
+    "options": ["1910", "1918", "1920", "1939"],
+    "correct_index": 1,
+    "category": "Historia"
+  },
+  {
+    "text": "Kto napisał 'Pan Tadeusz'?",
+    "options": ["Juliusz Słowacki", "Bolesław Prus", "Adam Mickiewicz", "Henryk Sienkiewicz"],
+    "correct_index": 2,
+    "category": "Literatura"
+  },
+  {
+    "text": "Ile boków ma heksagon?",
+    "options": ["5", "6", "7", "8"],
+    "correct_index": 1,
+    "category": "Matematyka"
+  },
+  {
+    "text": "Które miasto jest największe na świecie pod względem liczby ludności?",
+    "options": ["Pekin", "Nowy Jork", "Tokio", "Szanghaj"],
+    "correct_index": 2,
+    "category": "Geografia"
+  },
+  {
+    "text": "Jaki język programowania stworzył Guido van Rossum?",
+    "options": ["Java", "C++", "Python", "Ruby"],
+    "correct_index": 2,
+    "category": "Informatyka"
+  }
+]
