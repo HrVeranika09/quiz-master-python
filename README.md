@@ -26,3 +26,8 @@ A modular console-based quiz engine developed in Python. The system provides an 
 1. Clone the repository:
    ```bash
    git clone [https://github.com/hrveranika/quiz-master-python.git](https://github.com/hrveranika/quiz-master-python.git)
+
+### Run the application:
+
+```bash
+python main.py
